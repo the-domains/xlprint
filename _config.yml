@@ -2,6 +2,7 @@ name: XLPrint
 favicon: null
 layout_spectrum: 0.64653
 typography_spectrum: 0.88803
+title: XLPrint
 cta:
   domain: null
   bucket: null
