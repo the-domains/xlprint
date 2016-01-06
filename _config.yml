@@ -1,0 +1,28 @@
+name: XLPrint
+favicon: null
+layout_spectrum: 0.46712213940918446
+typography_spectrum: 0.7603951198980212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7592874024994671
+  lightness: 0.48691536975093186
+  saturation: 0.4808377062436193
+  rhythmicContrast: 0.43300785357132554
+purpose: []
